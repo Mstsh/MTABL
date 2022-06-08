@@ -6,6 +6,7 @@ keras 2.3.1
 tensorflow2.1
 # Research paper
 This code is based on this paper:
+
 [Multi-head Temporal Attention-Augmented Bilinear Network for Financial time series prediction](https://arxiv.org/abs/2201.05459)
 
 
